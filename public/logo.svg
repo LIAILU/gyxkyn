@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- <svg width="512" height="512" xmlns="http://www.w3.org/2000/svg"> -->
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <title>gyxkyn</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <linearGradient id="svg_55" x1="0.07422" y1="0.07266" x2="0.98828" y2="0.6" spreadMethod="pad">
+   <stop stop-color="#00ffff" stop-opacity="0.97656" offset="0.21094"/>
+   <stop stop-color="#ffffff" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_57" x1="0.3125" y1="0.27578" x2="1" y2="0.75234" spreadMethod="pad">
+   <stop stop-color="#00ffff" stop-opacity="0.97656" offset="0.54688"/>
+   <stop stop-color="#ffffff" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+  <linearGradient id="svg_6" x1="0.3125" y1="0.27578" x2="1" y2="0.99844" spreadMethod="pad">
+   <stop stop-color="#00ffff" stop-opacity="0.97656" offset="0.54688"/>
+   <stop stop-color="#ffffff" stop-opacity="0.99609" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_4"/>
+  </g>
+ </g>
+ <g>
+  <title>layout</title>
+  <polyline stroke-linecap="round" id="svg_2" points="100.5,188.5125 101.5,188.5125 102.5,188.5125 " stroke-width="1.5" stroke="#000" fill="none"/>
+  <path id="svg_5" d="m86.5,192.5125" opacity="0.5" stroke-width="1.5" stroke="#00ffff" fill="#000000"/>
+  <text font-style="italic" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="250" id="svg_1" y="343.2" x="51.28749" stroke-width="10" stroke="url(#svg_6)" fill="url(#svg_55)" opacity="0.82">mò</text>
+  <path id="svg_3" d="m358.55951,268.36824l-7.99474,-2.87756c-2.0171,-0.7253 -4.67498,-0.37622 -5.94596,0.77914l-3.15118,2.87219l15.29428,5.50095l3.15367,-2.87086c1.26615,-1.15673 0.66186,-2.68017 -1.35607,-3.40386l0,0zm-44.30808,25.5882l15.29511,5.50089l24.92849,-22.72544l-15.30239,-5.50233l-24.92121,22.72688l0.00001,0l-0.00001,0zm-2.33633,6.98909l-0.33781,5.16689l7.98247,-2.41787l7.41799,-2.24292l-14.75568,-5.31024l-0.30697,4.80413l0,0l0,0l0,0.00001z" fill="url(#svg_55)" opacity="0.82" stroke-width="3" stroke="url(#svg_57)" transform="rotate(-5 336.07699584961017,285.6119995117193) "/>
+ </g>
+</svg>
